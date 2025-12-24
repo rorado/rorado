@@ -1,8 +1,9 @@
 # Hi 👋, I'm a Full-Stack JavaScript Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN5eHZ0ZjBvcmxma2syZWNoMWx1OXl3cjVseDlwYjdvb3FieW9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Developer GIF"/>
 </p>
+
 
 Full-Stack Developer with a strong focus on **Next.js**, **React**, and **TypeScript**.  
 I design and build scalable, maintainable web applications with modern architectures and clean UI/UX.
