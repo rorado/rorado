@@ -1,109 +1,82 @@
-# Hi 👋, I'm a Full-Stack Developer
+# Hi 👋, I'm a Full-Stack JavaScript Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
 </p>
 
-🚀 Full-Stack Developer specializing in **Next.js**, **React**, and modern web technologies.  
-I build fast, scalable, and user-focused web applications.
+Full-Stack Developer with a strong focus on **Next.js**, **React**, and **TypeScript**.  
+I design and build scalable, maintainable web applications with modern architectures and clean UI/UX.
 
 ---
 
 ## 🧑‍💻 About Me
 
-<p align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
-- 🔭 Working with **Next.js (App Router)**
-- 🌱 Learning advanced backend & system design
-- 💡 Passionate about clean UI & scalable architecture
-- ⚡ Love building SaaS products & dashboards
+- 💼 Professional Full-Stack Developer  
+- ⚛️ Specialized in **Next.js (App Router)** & **React**
+- 🧠 Strong experience with **Redux / state management**
+- 🔐 Building secure, scalable APIs and frontends
+- 📈 Focused on performance, SEO, and maintainability
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40"/>
-</p>
-
-- Next.js
-- React
-- TypeScript
+- **Next.js**
+- **React**
+- **Redux / Redux Toolkit**
+- **TypeScript**
 - Tailwind CSS
-- HTML5, CSS3
-
----
+- HTML5 / CSS3
 
 ### Backend
-<p>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"/>
-</p>
-
 - Node.js
 - Express.js
-- API Development
+- RESTful APIs
 - Authentication (JWT, OAuth)
 
----
-
-### Database
-<p>
-  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40"/>
-</p>
-
+### Database & ORM
 - MongoDB
 - PostgreSQL
 - Prisma
 
----
-
-### Tools
-<p>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40"/>
-</p>
-
+### DevOps & Tools
 - Git & GitHub
 - Docker
 - Vercel
+- CI/CD
 - Postman
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Work
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="380" />
 </p>
 
-- 🔹 **Next.js SaaS App** – Authentication, dashboard, payments  
-- 🔹 **E-commerce Platform** – Full-stack with admin panel  
-- 🔹 **Portfolio Website** – SEO optimized with Next.js  
+- **SaaS Platform** — Next.js, authentication, role-based access, payments  
+- **E-commerce System** — Full-stack app with admin dashboard  
+- **Marketing & Portfolio Sites** — SEO-optimized Next.js applications  
 
-👉 *Pin your best repositories to showcase them here*
+👉 *Pinned repositories showcase real production work*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" height="165"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y01jP8QeLOox2/giphy.gif" width="300"/>
-</p>
+## 🌐 Connect
 
 - 🌍 Portfolio: https://rorado.me  
 - 💼 LinkedIn: https://linkedin.com/in/yourname  
 
 ---
 
-⭐️ From a passionate **Full-Stack Developer** building with **Next.js**
+⭐️ Building reliable web products with **Next.js, React, Redux, and TypeScript**
