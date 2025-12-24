@@ -74,7 +74,7 @@ I design and build scalable, maintainable web applications with modern architect
 ## 🌐 Connect
 
 - 🌍 Portfolio: https://rorado.me  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
+- 💼 LinkedIn: https://www.linkedin.com/in/sohaib-ahrich
 
 ---
 
