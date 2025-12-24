@@ -41,11 +41,9 @@ I design and build scalable, maintainable web applications with modern architect
 - PostgreSQL
 - Prisma
 
-### DevOps & Tools
+### Tools
 - Git & GitHub
-- Docker
 - Vercel
-- CI/CD
 - Postman
 
 ---
