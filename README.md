@@ -1,4 +1,4 @@
-# Hi 👋, I'm a Full-Stack JavaScript Developer
+# Hi 👋, I'm a Web Developer
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN5eHZ0ZjBvcmxma2syZWNoMWx1OXl3cjVseDlwYjdvb3FieW9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Developer GIF"/>
