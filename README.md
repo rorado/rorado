@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sohaib Ahrich
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN5eHZ0ZjBvcmxma2syZWNoMWx1OXl3cjVseDlwYjdvb3FieW9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Developer GIF"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="420" alt="Developer Coding GIF"/>
 </p>
 
 Full-Stack Developer specializing in **Next.js**, **React**, and **TypeScript**.  
@@ -47,7 +47,7 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 ## 📌 Selected Work
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="380" />
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="380" alt="Projects GIF"/>
 </p>
 
 - **SaaS Platform** — Next.js, authentication, role-based access, payments  
