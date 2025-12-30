@@ -47,18 +47,13 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 ## 📌 Selected Work
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/saas-platform">
-    <img src="https://via.placeholder.com/380x180.png?text=SaaS+Platform" width="380" alt="SaaS Platform"/>
-  </a>
+  <img src="https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="380" alt="SaaS Platform"/>
   <br>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/ecommerce-system">
-    <img src="https://via.placeholder.com/380x180.png?text=E-commerce+System" width="380" alt="E-commerce System"/>
-  </a>
+  <img src="https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="380" alt="E-commerce System"/>
   <br>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-site">
-    <img src="https://via.placeholder.com/380x180.png?text=Portfolio+Site" width="380" alt="Portfolio Site"/>
-  </a>
+  <img src="https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="380" alt="Portfolio Site"/>
 </p>
+
 
 - **SaaS Platform** — Next.js, authentication, role-based access, payments  
 - **E-commerce System** — Full-stack app with admin dashboard  
