@@ -26,6 +26,7 @@ I design and build scalable, maintainable web applications with modern architect
 - **Next.js**
 - **React**
 - **Redux / Redux Toolkit**
+- **JavaScript**
 - **TypeScript**
 - Tailwind CSS
 - HTML5 / CSS3
