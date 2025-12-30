@@ -1,51 +1,46 @@
-# Hi 👋, I'm a Web Developer
+# Hi 👋, I'm Sohaib Ahrich
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN5eHZ0ZjBvcmxma2syZWNoMWx1OXl3cjVseDlwYjdvb3FieW9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Developer GIF"/>
 </p>
 
-
-Full-Stack Developer with a strong focus on **Next.js**, **React**, and **TypeScript**.  
-I design and build scalable, maintainable web applications with modern architectures and clean UI/UX.
+Full-Stack Developer specializing in **Next.js**, **React**, and **TypeScript**.  
+I build **scalable, high-performance web applications** with clean UI/UX and modern architectures.
 
 ---
 
 ## 🧑‍💻 About Me
-
 - 💼 Professional Full-Stack Developer  
-- ⚛️ Specialized in **Next.js (App Router)** & **React**
-- 🧠 Strong experience with **Redux / state management**
-- 🔐 Building secure, scalable APIs and frontends
-- 📈 Focused on performance, SEO, and maintainability
+- ⚛️ Specialized in **Next.js (App Router)** & **React**  
+- 🧠 Experienced in **Redux / state management**  
+- 🔐 Building secure, scalable APIs and frontends  
+- 📈 Focused on performance, SEO, and maintainability  
 
 ---
 
 ## 🛠 Core Tech Stack
 
 ### Frontend
-- **Next.js**
-- **React**
-- **Redux / Redux Toolkit**
-- **JavaScript**
-- **TypeScript**
-- Tailwind CSS
-- HTML5 / CSS3
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- Authentication (JWT, OAuth)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
 ### Database & ORM
-- MongoDB
-- PostgreSQL
-- Prisma
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Tools
-- Git & GitHub
-- Vercel
-- Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -59,24 +54,25 @@ I design and build scalable, maintainable web applications with modern architect
 - **E-commerce System** — Full-stack app with admin dashboard  
 - **Marketing & Portfolio Sites** — SEO-optimized Next.js applications  
 
-👉 *Pinned repositories showcase real production work*
+> 🔗 Check my [GitHub repositories](https://github.com/YOUR_GITHUB_USERNAME) for live projects and code examples.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
 ## 🌐 Connect
 
-- 🌍 Portfolio: https://rorado.me  
-- 💼 LinkedIn: https://www.linkedin.com/in/sohaib-ahrich
+- 🌍 Portfolio: [rorado.me](https://rorado.me)  
+- 💼 LinkedIn: [linkedin.com/in/sohaib-ahrich](https://www.linkedin.com/in/sohaib-ahrich)  
+- 📧 Email: [sohaib@example.com](mailto:sohaib@example.com)  
 
 ---
 
-⭐️ Building reliable web products with **Next.js, React, Redux, and TypeScript**
+⭐ Building reliable web products with **Next.js, React, Redux, and TypeScript**
