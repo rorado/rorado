@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sohaib Ahrich
+# Hi 👋, I'm Sohaib
 
 <p align="center">
       <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer GIF"/>
