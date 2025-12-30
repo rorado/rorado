@@ -46,13 +46,9 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 
 ## 📌 Selected Work
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="380" alt="SaaS Platform"/>
-  <br>
-  <img src="https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="380" alt="E-commerce System"/>
-  <br>
-  <img src="https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="380" alt="Portfolio Site"/>
-</p>
+- **SaaS Platform** — Next.js, authentication, role-based access, payments  
+- **E-commerce System** — Full-stack app with admin dashboard  
+- **Portfolio & Marketing Sites** — SEO-optimized Next.js applications  
 
 
 - **SaaS Platform** — Next.js, authentication, role-based access, payments  
