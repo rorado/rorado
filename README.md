@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sohaib Ahrich
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJvd3plb3I3cDFpcTJkaG5nZDg4Z2JmYmt5N3J6eXVhZWJtZGsybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)f" width="420" alt="Developer Coding GIF"/>
+    <img src="https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="420" alt="Developer GIF"/>
 </p>
 
 Full-Stack Developer specializing in **Next.js**, **React**, and **TypeScript**.  
