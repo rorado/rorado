@@ -1,15 +1,13 @@
 # Hi 👋, I'm Sohaib Ahrich
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="420" alt="Developer Coding GIF"/>
+  <img src="https://images.unsplash.com/photo-1581091870623-5d2635c2efb0?auto=format&fit=crop&w=800&q=80" width="420" alt="Developer Hero Image"/>
 </p>
 
-Full-Stack Developer specializing in **Next.js**, **React**, and **TypeScript**.  
+## 👨‍💻 About Me
+I'm a **Full-Stack Developer** specializing in **Next.js**, **React**, and **TypeScript**.  
 I build **scalable, high-performance web applications** with clean UI/UX and modern architectures.
 
----
-
-## 🧑‍💻 About Me
 - 💼 Professional Full-Stack Developer  
 - ⚛️ Specialized in **Next.js (App Router)** & **React**  
 - 🧠 Experienced in **Redux / state management**  
@@ -47,7 +45,17 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 ## 📌 Selected Work
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="380" alt="Projects GIF"/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/saas-platform">
+    <img src="https://via.placeholder.com/380x180.png?text=SaaS+Platform" width="380" alt="SaaS Platform"/>
+  </a>
+  <br>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/ecommerce-system">
+    <img src="https://via.placeholder.com/380x180.png?text=E-commerce+System" width="380" alt="E-commerce System"/>
+  </a>
+  <br>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-site">
+    <img src="https://via.placeholder.com/380x180.png?text=Portfolio+Site" width="380" alt="Portfolio Site"/>
+  </a>
 </p>
 
 - **SaaS Platform** — Next.js, authentication, role-based access, payments  
@@ -69,9 +77,11 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 
 ## 🌐 Connect
 
-- 🌍 Portfolio: [rorado.me](https://rorado.me)  
-- 💼 LinkedIn: [linkedin.com/in/sohaib-ahrich](https://www.linkedin.com/in/sohaib-ahrich)  
-- 📧 Email: [sohaib@example.com](mailto:sohaib@example.com)  
+<p align="center">
+  <a href="https://rorado.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sohaib-ahrich" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sohaib@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
