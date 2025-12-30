@@ -1,13 +1,15 @@
 # Hi 👋, I'm Sohaib Ahrich
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581091870623-5d2635c2efb0?auto=format&fit=crop&w=800&q=80" width="420" alt="Developer Hero Image"/>
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="420" alt="Developer Coding GIF"/>
 </p>
 
-## 👨‍💻 About Me
-I'm a **Full-Stack Developer** specializing in **Next.js**, **React**, and **TypeScript**.  
+Full-Stack Developer specializing in **Next.js**, **React**, and **TypeScript**.  
 I build **scalable, high-performance web applications** with clean UI/UX and modern architectures.
 
+---
+
+## 👨‍💻 About Me
 - 💼 Professional Full-Stack Developer  
 - ⚛️ Specialized in **Next.js (App Router)** & **React**  
 - 🧠 Experienced in **Redux / state management**  
@@ -80,7 +82,6 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 <p align="center">
   <a href="https://rorado.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sohaib-ahrich" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sohaib@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
