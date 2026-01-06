@@ -64,6 +64,3 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 - 🌍 Portfolio: https://rorado.me  
 - 💼 LinkedIn: https://www.linkedin.com/in/sohaib-ahrich  
 
----
-
-⭐ Building reliable web products with **Next.js, React, Redux, and TypeScript**
