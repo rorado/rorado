@@ -42,9 +42,7 @@ I build **scalable, high-performance web applications** with clean UI/UX and mod
 - Vercel  
 - Postman  
 
-
 ---
-
 
 ## 📌 Selected Work
 
