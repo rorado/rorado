@@ -4,9 +4,6 @@
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer GIF"/>
 </p>
 
-🚀 **Full-Stack Developer** specializing in **Next.js**, **React**, and **TypeScript**  
-I build **scalable, high-performance web applications** with clean UI/UX and modern architectures.
-
 ---
 
 ## 👨‍💻 About Me
