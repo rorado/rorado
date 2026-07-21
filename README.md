@@ -1,40 +1,33 @@
 <!-- ==========================================================================
-     SETUP — do these 2 replacements, then paste into your profile repo:
-       1) YOUR_USERNAME   -> your exact GitHub username (powers all stat cards)
-       2) YOUR_LINKEDIN / YOUR_EMAIL / YOUR_PORTFOLIO -> your links
-
-     FIX FOR 402 ERRORS (cards over quota):
-       Self-host github-readme-stats once (free), then replace every
-         github-readme-stats.vercel.app
-       with your own instance, e.g.
-         my-stats.vercel.app
-       Steps: fork github.com/anuraghazra/github-readme-stats  ->
-       import it into vercel.com  -> deploy -> use the deployed domain.
+     FILL IN THE 3 LINKS BELOW (search for FIXME):
+       FIXME_LINKEDIN  -> your linkedin URL slug
+       FIXME_EMAIL     -> your email
+       FIXME_PORTFOLIO -> your portfolio URL (or delete that badge)
+     Everything else is set for rorado.
      ========================================================================== -->
 
-<!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:0891b2&height=210&section=header&text=Sohaib&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%94%20Next.js%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=58&descSize=16" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:0891b2&height=210&section=header&text=Sohaib&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%201337%20(42%20Network)%20Student&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+secure%2C+scalable+web+apps;Next.js+App+Router+%26+React+specialist;Performance+%C2%B7+SEO+%C2%B7+Clean+architecture" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+from+Morocco;Next.js+%C2%B7+React+%C2%B7+NestJS+%C2%B7+TypeScript;Building+secure%2C+scalable+web+apps;Performance+%C2%B7+SEO+%C2%B7+Clean+architecture" alt="typing"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/FIXME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:FIXME_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://FIXME_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=rorado&label=Views&color=6d28d9&style=for-the-badge"/>
 </p>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
 ### &nbsp; 👨‍💻 &nbsp; About Me
 
 ```typescript
 const sohaib = {
   role:        "Full-Stack Developer",
-  specialized: ["Next.js (App Router)", "React", "TypeScript"],
+  school:      "1337 Coding School (42 Network) · Morocco",
+  specialized: ["Next.js (App Router)", "React", "NestJS", "TypeScript"],
   strengths:   ["Redux & state management", "Secure & scalable APIs"],
   focus:       ["Performance", "SEO", "Maintainability"],
   mindset:     "Ship clean, ship fast, ship right.",
@@ -43,7 +36,6 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
 ### &nbsp; 🛠 &nbsp; Tech Stack
 
 <table align="center">
@@ -60,6 +52,7 @@ const sohaib = {
     <td align="center"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     </td>
@@ -85,9 +78,6 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== GITHUB STATS =====================
-     cache_seconds=86400 makes GitHub cache these images for a day,
-     which drastically cuts the requests that cause 402 errors. -->
 ### &nbsp; 📊 &nbsp; GitHub Analytics
 
 <p align="center">
@@ -101,7 +91,6 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
 ### &nbsp; 🏆 &nbsp; Trophies
 
 <p align="center">
@@ -110,7 +99,6 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
 ### &nbsp; 📈 &nbsp; Contribution Activity
 
 <p align="center">
@@ -119,7 +107,6 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
 ### &nbsp; 📌 &nbsp; Selected Work
 
 <table align="center">
@@ -143,10 +130,8 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== SNAKE (needs the GitHub Action to generate) ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rorado/rorado/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6d28d9,100:0f172a&height=120&section=footer" width="100%"/>
