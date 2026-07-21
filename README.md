@@ -1,7 +1,16 @@
-<!-- ============================================================
-     README — replace every "YOUR_USERNAME" with your GitHub name
-     (find & replace once; it powers all the stat cards)
-     ============================================================ -->
+<!-- ==========================================================================
+     SETUP — do these 2 replacements, then paste into your profile repo:
+       1) YOUR_USERNAME   -> your exact GitHub username (powers all stat cards)
+       2) YOUR_LINKEDIN / YOUR_EMAIL / YOUR_PORTFOLIO -> your links
+
+     FIX FOR 402 ERRORS (cards over quota):
+       Self-host github-readme-stats once (free), then replace every
+         github-readme-stats.vercel.app
+       with your own instance, e.g.
+         my-stats.vercel.app
+       Steps: fork github.com/anuraghazra/github-readme-stats  ->
+       import it into vercel.com  -> deploy -> use the deployed domain.
+     ========================================================================== -->
 
 <!-- ===================== HEADER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:0891b2&height=210&section=header&text=Sohaib&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%94%20Next.js%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=58&descSize=16" width="100%" alt="header"/>
@@ -76,16 +85,18 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STATS =====================
+     cache_seconds=86400 makes GitHub cache these images for a day,
+     which drastically cuts the requests that cause 402 errors. -->
 ### &nbsp; 📊 &nbsp; GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&cache_seconds=86400"/>
 </p>
 
 <br/>
@@ -132,7 +143,7 @@ const sohaib = {
 
 <br/>
 
-<!-- ===================== SNAKE ===================== -->
+<!-- ===================== SNAKE (needs the GitHub Action to generate) ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 </p>
