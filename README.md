@@ -1,11 +1,3 @@
-<!-- ==========================================================================
-     FILL IN THE 3 LINKS BELOW (search for FIXME):
-       FIXME_LINKEDIN  -> your linkedin URL slug
-       FIXME_EMAIL     -> your email
-       FIXME_PORTFOLIO -> your portfolio URL (or delete that badge)
-     Everything else is set for rorado.
-     ========================================================================== -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:0891b2&height=210&section=header&text=Sohaib&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%201337%20(42%20Network)%20Student&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
 <p align="center">
@@ -13,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/FIXME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:FIXME_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://FIXME_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=rorado&label=Views&color=6d28d9&style=for-the-badge"/>
 </p>
 
@@ -30,7 +21,6 @@ const sohaib = {
   specialized: ["Next.js (App Router)", "React", "NestJS", "TypeScript"],
   strengths:   ["Redux & state management", "Secure & scalable APIs"],
   focus:       ["Performance", "SEO", "Maintainability"],
-  mindset:     "Ship clean, ship fast, ship right.",
 };
 ```
 
@@ -81,12 +71,12 @@ const sohaib = {
 ### &nbsp; 📊 &nbsp; GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rorado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&cache_seconds=86400"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rorado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&cache_seconds=86400&v=2"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=86400&v=2"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rorado&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&cache_seconds=86400"/>
+  <img src="https://streak-stats.demolab.com?user=rorado&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA"/>
 </p>
 
 <br/>
