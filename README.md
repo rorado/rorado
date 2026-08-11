@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:0891b2&height=210&section=header&text=Sohaib&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20" width="100%" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+;Next.js+%C2%B7+React+%C2%B7+NestJS+%C2%B7+TypeScript;Building+secure%2C+scalable+web+apps;Performance+%C2%B7+SEO+%C2%B7+Clean+architecture" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Full Stack+Developer+;Next.js+%C2%B7+React+%C2%B7+NestJS+%C2%B7+TypeScript;Building+secure%2C+scalable+web+apps;Performance+%C2%B7+SEO+%C2%B7+Clean+architecture" alt="typing"/>
 </p>
 
 <p align="center">
