@@ -16,7 +16,7 @@
 ```typescript
 const sohaib = {
   role:        "Full Stack Developer",
-  specialized: ["Next.js (App Router)", "React", "NestJS", "TypeScript", python, FastApi],
+  specialized: ["Next.js (App Router)", "React", "NestJS", "TypeScript", "Python", "FastApi"],
   strengths:   ["Redux & state management", "Secure & scalable APIs"],
   focus:       ["Performance", "SEO", "Maintainability"],
 };
